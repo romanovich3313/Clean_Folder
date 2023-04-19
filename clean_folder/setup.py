@@ -4,7 +4,7 @@ setup(
     name='clean_folder',
     version='1',
     description='You can clean your computer with this code',
-    url='https://github.com/Siia95/Clean_Folder',
+    url='https://github.com/romanovich3313/Clean_Folder',
     author='Roman Palij',
     author_email='roman.romanovich.pl@gmail.com',
     license='MIT',
